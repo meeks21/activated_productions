@@ -18,7 +18,7 @@
         <header>   
             <nav>
                 <div class="row">
-                    <a href="#"><img src="resources/images/logo-placeholder.png" alt="logo" class="logo"></a>
+                    <a href="template.php"><img src="resources/images/logo-placeholder.png" alt="logo" class="logo"></a>
                     <ul class="main-nav js--main-nav">
                         <li><a href="#">Work</a></li>
                         <li><a href="#">Services</a></li>

@@ -26,6 +26,15 @@ header {
 
 }
 
+footer {
+    color: black;
+}
+
+footer p {
+    text-align: center;
+    margin: 5px;
+}
+
 .logo {
     height: 100px;
     width: auto;
@@ -34,10 +43,10 @@ header {
 
 .hero-text-box {
     position: absolute;
-    width: 1140;
+    width: 1140px;
     top: 50%;
     left: 50%;
-    transform: translate(-100%, -50%);
+    transform: translate(-50%, -50%);
 }
 
 h1 {
@@ -80,7 +89,6 @@ h1 {
 
 .btn-full:hover,
 .btn-full:visited {
-    
     border: 1px solid #08372e;
 }
 
