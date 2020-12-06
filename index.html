@@ -41,7 +41,7 @@
                 <p>
                     &copy; 2019 - <?=date("Y")?> by 
                     <a href="https://www.kemar-meeks.com/IT-162/index.php" target="_blank">Kemar</a>, All Rights Reserved  
-                    <a href="https://validator.w3.org/check/referer" target="_blank"><ion-icon name="logo-html5"></ion-icon></a> ~ 
+                    <a href="https://validator.w3.org/check/referer" target="_blank"><ion-icon name="logo-html5"></ion-icon></a>  
                     <a href="https://jigsaw.w3.org/css-validator/check?uri=referer" target="_blank"><ion-icon name="logo-css3"></ion-icon></a>   
                 </p>
             </div>
