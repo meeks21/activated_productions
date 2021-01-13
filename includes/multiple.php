@@ -33,7 +33,7 @@
 <!-- below change the HTML to your form elements - only 'Name' & 'Email' (above) are significant -->
 <div>	
     <label>
-        How Did You Hear About Us?:<br />
+        How Did You Hear About Us?<br />
         <select name="How_Did_You_Hear_About_Us?" required="required" title="How You Heard is required" tabindex="30">
             <option value="">Choose How You Heard</option>
             <option value="Phone">Phone</option>
@@ -55,8 +55,8 @@
     </fieldset>
 </div>
 
-    <div>	
-    <fieldset>
+<div>	
+    <fieldset class="fieldset-two">
         <legend>Would you like to join our mailing list?</legend>
         <input type="radio" name="Join_Mailing_List?" value="Yes" 
         required="required" title="Mailing list is required" tabindex="50"  

@@ -20,6 +20,8 @@ html{
 }
 /*******************End********************/
 
+
+
 /*************Header Styles****************
  the class name is inserted vie the 
  php congfig file.
@@ -31,6 +33,7 @@ html{
     background-position: center;
     height: 100vh;
 }
+
 .second-header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(images/pexels-kyle-loftus-2510428.jpg);
     background-size: auto;
@@ -48,33 +51,27 @@ html{
 .title-photo-extrasmall {display: none;}
 
 main{
-    margin-top: 5rem;
-    margin-bottom: 5rem;
+    margin-top: 4rem;
+    margin-bottom: 8rem;
 }
 
-.about-main{
-    height: 75vh;
-}
+.about-main{height: 75vh;}
 
 section{
-    height: 100vh;
+    height: 110vh;
     padding-top: 3rem;
 }
+
 #more_info_section p {
     line-height: 1.6;
 }
 
-.bio-title{
-    margin-bottom: 4rem;
-}
+.bio-title {margin-bottom: 4rem;}
 
-.bio-sub-title {
-    margin-bottom: 2rem;
-}
+.bio-sub-title {margin-bottom: 2rem;}
 
-.bio-sub-title p{
-    font-size: .9rem;
-}
+.bio-sub-title p{font-size: .9rem;}
+
 .bio-content {
     text-indent: 2.5rem;
     line-height: 1.6;
@@ -99,12 +96,11 @@ section{
     line-height: 1.6;
 }
 
-footer {
-    
+footer {    
     color: #fff;
     background-color: #071b2d;
     padding-top: 3rem;
-
+    font-size: 70%;
 }
 
 footer a{   
@@ -119,6 +115,9 @@ footer p {
     margin-top: 5px;
     margin-bottom: 2rem ;
     word-spacing: 6px;
+}
+.social-nav{
+    font-size: 130%;
 }
 
 .logo {

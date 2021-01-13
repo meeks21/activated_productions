@@ -1,20 +1,30 @@
 
 /* Big tablets to 1200px (widths smaller than the 1140px row) */
+@media only screen and (max-width: 1322px){
+    section{
+        height: 140vh;
+    } 
+}
+
 @media only screen and (max-width: 1200px){
 
     .hero-text-box {        
         width: 100%;
         padding: 0 2%;        
     }
+
     .row {padding: 0 2%;}
 
-    
 }
 
 /* Small tablets to big tablets from 768px to 1023px */
 @media only screen and (max-width: 1023px){
 
-    html { font-size: 18px;}
+    html {font-size: 18px;}
+
+    .row {padding: 0 3%;}
+
+    .main-header {height: 120vh;}
 
     .services-grid-container{
         grid-template-columns: 100%;
@@ -30,17 +40,18 @@
     
     }
 
-    
+    .work-container {grid-template-columns: 80%;}
 
-    .work-container{ grid-template-columns: 80%;}
-
-    .footer-grid img{ width: 85%;}
+    .footer-grid img {width: 85%;}
 
     section{
         height: auto;
         padding-bottom: 5rem;
     }
-}
+
+    form {width: 85%;}
+
+
 /* small phones 481px to 767px */
 @media only screen and (max-width: 767px){  
 
@@ -62,6 +73,17 @@
         font-size: 80%;
     }
 
+    form {width: 90%;}
+    
+    input[type="text"], 
+    input[type="email"]{
+        width: 90%;
+    }
+
+    main {margin-bottom: 3rem;}
+
+    .row {padding: 0 4%;}
+
 }
 /* .title-photo-big breaks at 540px */
 @media only screen and (max-width: 540px){
@@ -71,19 +93,19 @@
 
 /* small phones 411px to 480px */
 @media only screen and (max-width: 480px){
+    form {width: 100%;}
+
+    input[type="text"], 
+    input[type="email"]{
+        width: 100%;
+    }
     
-    .logo {
-        height: 80px;
-    }
-    main{
-        margin-top: 5rem;;
-    }
+    
+    .logo {height: 80px;}
     
     .about-main{
         height: 100vh
     }
-
-    .row {padding: 0 4%;}
 
 }
 

@@ -47,7 +47,7 @@ switch(THIS_PAGE){
     case 'contact.php':
 
         $title = "Contact Us";
-        $headerClass= "main-header";
+        $headerClass= "second-header";
     break;
 
     default:
