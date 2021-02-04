@@ -16,7 +16,17 @@
         <link rel="stylesheet" type="text/css" href="resources/css/form.css">
         <link rel="stylesheet" type="text/css" href="resources/css/queries.css">
         <link rel="stylesheet" type="text/css" href="resources/css/video.css">
-        <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,300&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="vendors/css/blueberry.css">
+        <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,300&display=swap" rel="stylesheet">      
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+        <script src="vendors/js/jquery.blueberry.js"></script>
+
+        <script>
+        $(window).load(function() {
+            $('.blueberry').blueberry();
+        });
+        </script>
+
         <title><?=$title?></title>
     </head>
 

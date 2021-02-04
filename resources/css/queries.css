@@ -1,6 +1,6 @@
 
 /* Big tablets to 1200px (widths smaller than the 1140px row) */
-@media only screen and (max-width: 1322px){
+@media only screen and (max-width: 1321px){
     section{
         height: 140vh;
     } 
@@ -45,7 +45,7 @@
     .footer-grid img {width: 85%;}
 
     section{
-        height: auto;
+      
         padding-bottom: 5rem;
     }
 

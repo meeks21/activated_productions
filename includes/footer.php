@@ -6,8 +6,19 @@
                     <div class="grid-item">
                         <nav>
                             <ul class="social-nav">
-                                <li><a href="https://www.facebook.com/ActivatedProductions" target="_blank"><ion-icon name="logo-facebook"></ion-icon></a></li>
-                                <li><a href="https://www.instagram.com/activated_productions/?hl=en" target="_blank"><ion-icon name="logo-instagram"></ion-icon></a></li>
+                                <li><a href="https://www.facebook.com/ActivatedProductions" target="_blank" 
+                                class="fb-link">
+                                <ion-icon name="logo-facebook"></ion-icon>
+                                </a>
+                                </li>
+
+                                <li>
+                                <a href="https://www.instagram.com/activated_productions/?hl=en" 
+                                target="_blank"
+                                class="ig-link">
+                                <ion-icon name="logo-instagram"></ion-icon>
+                                </a>
+                                </li>                               
                             </ul>
                         </nav>
                     </div>
@@ -21,7 +32,6 @@
         </footer>
 
         <script src="https://unpkg.com/ionicons@5.2.3/dist/ionicons.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
         <script src="resources/js/scripts.js"></script>
 
     </body>

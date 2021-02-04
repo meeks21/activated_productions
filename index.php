@@ -11,16 +11,31 @@
         </header>
         <section id="more_info_section">
             <div class="row">
-                <h1>
+                <h1 class="main-h1">
                     More About Activated Productions
                 </h1>
                 <br>
-                <p>Praesent vestibulum, augue non lobortis imperdiet, lectus diam hendrerit neque, nec varius nulla magna eu tellus. Aliquam accumsan scelerisque maximus. Phasellus volutpat efficitur eros non placerat. Donec aliquet diam sit amet lectus porta, in fermentum nulla suscipit. Quisque blandit, ipsum a euismod vestibulum, sapien ante laoreet risus, in dignissim nibh erat vel elit. Pellentesque sed mauris et justo malesuada mattis. Aliquam tristique dolor quis libero molestie gravida. Sed vitae felis et lectus auctor facilisis sed vitae felis. Aliquam id viverra metus. Sed vel augue sem. Suspendisse quis arcu elit. Proin ut faucibus dui. Proin cursus ex et diam tincidunt, ac interdum massa vehicula.</p>
-                <br>
-                <p>Cras vitae erat felis. Phasellus hendrerit nulla eu interdum tincidunt. Aenean a mi non orci tincidunt imperdiet. Morbi commodo ultricies turpis, eu tempor tortor. Nullam id nisi ut nibh malesuada rutrum. Suspendisse finibus tellus sed velit feugiat, vitae porta odio vestibulum. Proin elementum odio non ipsum pharetra, nec condimentum risus eleifend. Etiam et tellus justo. Donec pretium ornare rutrum. Proin cursus rutrum diam, ac bibendum massa sodales eget. Donec ipsum sapien, gravida id faucibus eget, mattis eget quam. Duis ac congue dolor.</p>
-                <br>
-                <p>Phasellus vehicula varius dui. Vestibulum elit elit, condimentum at enim a, pretium ultrices lectus. Integer ac velit vitae urna sagittis eleifend. Morbi sit amet rhoncus nibh, eget egestas risus. Mauris at sollicitudin ante. Curabitur laoreet, justo sit amet facilisis commodo, purus massa tincidunt augue, sit amet commodo est metus id leo. </p>
-
+                <p>Activated Productions LLC is committed to bringing your creative vision to life in the form of digital media</p>
+                <div class="blueberry">
+                <ul class="slides">
+                    
+                <li><img class="hero-image" src="resources/images/stills/still1.png" alt="banner1"></li>
+                <li><img class="hero-image" src="resources/images/stills/still2.png" alt="banner2"></li>
+                <li><img class="hero-image" src="resources/images/stills/still3.png" alt="banner3"></li>
+                <li><img class="hero-image" src="resources/images/stills/still4.png" alt="banner4"></li>
+                <li><img class="hero-image" src="resources/images/stills/still5.png" alt="banner5"></li>
+                <li><img class="hero-image" src="resources/images/stills/still6.png" alt="banner6"></li>
+                <li><img class="hero-image" src="resources/images/stills/still7.png" alt="banner7"></li>
+                <li><img class="hero-image" src="resources/images/stills/still8.png" alt="banner8"></li>
+                <li><img class="hero-image" src="resources/images/stills/still9.png" alt="banner9"></li>
+                <li><img class="hero-image" src="resources/images/stills/still10.png" alt="banner10"></li>
+                <li><img class="hero-image" src="resources/images/stills/still11.png" alt="banner11"></li>
+                <li><img class="hero-image" src="resources/images/stills/still12.png" alt="banner12"></li>
+                <li><img class="hero-image" src="resources/images/stills/still13.png" alt="banner13"></li>
+                <li><img class="hero-image" src="resources/images/stills/still14.png" alt="banner14"></li>
+                
+                </ul>
+                </div> 
             </div>
 
         </section>
